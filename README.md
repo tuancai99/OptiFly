@@ -1,5 +1,5 @@
 # TravelReservations
-In this project we will analyze, specify, design, implement, and document an online system based on the
+In this project I will analyze, specify, design, implement, and document an online system based on the
 provided scenario description. I will use the classical methodology for relational database
 development. The system will be implemented using a relational DBMS that supports standard SQL queries.
 I will use your localhost MySQL Server to implement your database and the
