@@ -1,4 +1,4 @@
-# TravelReservations
+# Travel Reservation Service Database
 
 ## Project Purposes: 
 In this project I will analyze, specify, design, implement, and document an online system based on the
