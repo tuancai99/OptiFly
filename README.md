@@ -1,4 +1,4 @@
-# Travel Reservation Service Database
+# OptiFly (Travel Reservation Service Database)
 
 ## Project Purposes :dart:
 In this project I will analyze, specify, design, implement, and document an online system based on the
